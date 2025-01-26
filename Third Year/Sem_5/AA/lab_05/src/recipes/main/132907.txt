@@ -1,0 +1,15 @@
+title: Шницели из гречки с сыром и овощами
+url: https://www.povarenok.ru/recipes/show/132907/
+ingredient: Крупа гречневая отварная — 2 стак
+ingredient: Лук репчатый — 1 шт
+ingredient: Морковь — 1 шт
+ingredient: Картофель — 1 шт
+ingredient: Хлеб белый — 2 ломт
+ingredient: Сырок плавленый сырок Дружба — 2 шт
+ingredient: Яйцо куриное — 1 шт
+ingredient: Укроп — 1 пуч
+ingredient: Молоко тёплое в нём размочить хлеб — 50 мл
+ingredient: Соль — 1 ч л
+ingredient: Перец черный — по вкусу
+ingredient: Масло растительное для жарки — 2 ст л
+image: https://www.povarenok.ru/data/cache/2016oct/11/51/1744451_91235-710x550x.jpg

@@ -1,0 +1,13 @@
+title: Курица под шубой с дижонской горчицей
+url: https://www.povarenok.ru/recipes/show/173793/
+ingredient: Картофель — 3 шт
+ingredient: Морковь — 3 шт
+ingredient: Свекла — 3 шт
+ingredient: Филе куриное — 400 г
+ingredient: Бульон — 30 мл
+ingredient: Йогурт греческий — 2 ст л
+ingredient: Сметана — 230 г
+ingredient: Соль — по вкусу
+ingredient: Горчица — 2 ст л
+ingredient: Кунжут — по вкусу
+image: https://www.povarenok.ru/data/cache/2021nov/14/48/2916894_80340-710x550x.jpg

@@ -1,0 +1,12 @@
+title: Терин баклажановый
+url: https://www.povarenok.ru/recipes/show/5331/
+ingredient: Баклажан — 3 шт
+ingredient: Перец сладкий — 4 шт
+ingredient: Помидор — 4 шт
+ingredient: Сырок плавленый — 4 шт
+ingredient: Чеснок — 5 дол
+ingredient: Майонез — 3 шт
+ingredient: Соль
+ingredient: Перец черный молотый
+ingredient: Зелень
+image: https://www.povarenok.ru/images/recipes/1/179/17994.jpg

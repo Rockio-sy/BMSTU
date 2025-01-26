@@ -1,0 +1,12 @@
+title: Салат из фасоли и сладкого перца
+url: https://www.povarenok.ru/recipes/show/135163/
+ingredient: Фасоль — 300 г
+ingredient: Перец болгарский — 1 шт
+ingredient: Лук репчатый — 1 шт
+ingredient: Чеснок — 1 зуб
+ingredient: Сметана — 3 ст л
+ingredient: Томатная паста Помидорка — 2 ст л
+ingredient: Масло сливочное — 1 ст л
+ingredient: Зелень
+ingredient: Специи
+image: https://www.povarenok.ru/data/cache/2016dec/01/56/1829730_84502-710x550x.jpg

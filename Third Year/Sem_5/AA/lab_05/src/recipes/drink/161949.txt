@@ -1,0 +1,14 @@
+title: Форшмак от Романа Гершуни
+url: https://www.povarenok.ru/recipes/show/161949/
+ingredient: Сельдь филе — 500 г
+ingredient: Картофель — 500 г
+ingredient: Лук репчатый — 250 г
+ingredient: Масло сливочное — 100 г
+ingredient: Масло растительное — 50 г
+ingredient: Перец душистый — по вкусу
+ingredient: Соль — по вкусу
+instruction: Мелко нарезаем филе селедки.
+instruction: Отварной остывший картофель натираем на терке.
+instruction: Обжариваем лук до золотистого цвета в смеси сливочного и растительного масла.
+instruction: Все соединяем, солим, перчим, тщательно перемешиваем. Всем приятного аппетита!
+image: https://www.povarenok.ru/data/cache/2019dec/22/58/2638676_62519-710x550x.jpg

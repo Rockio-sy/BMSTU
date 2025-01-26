@@ -1,0 +1,9 @@
+title: Хачапури по-аджарски
+url: https://www.povarenok.ru/recipes/show/159588/
+ingredient: Мука пшеничная Мука — 300 г
+ingredient: Вода — 200 мл
+ingredient: Дрожжи — 3 г
+ingredient: Соль — 05 ч л
+ingredient: Сахар — 05 ч л
+ingredient: Масло растительное — 40 г
+image: https://www.povarenok.ru/data/cache/2019sep/07/43/2578879_46445-710x550x.jpg

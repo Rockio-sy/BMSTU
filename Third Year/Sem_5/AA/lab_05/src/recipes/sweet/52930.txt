@@ -1,0 +1,11 @@
+title: Чак-чак
+url: https://www.povarenok.ru/recipes/show/52930/
+ingredient: Яйцо куриное — 3 шт
+ingredient: Сахар — 150 г
+ingredient: Водка или коньяк — 60 мл
+ingredient: Мука пшеничная Мука — 3 стак
+ingredient: Мед — 1 стак
+ingredient: Орехи — 1 стак
+ingredient: Вода — 13 стак
+ingredient: Масло растительное рафинированное — 0507 л
+image: https://www.povarenok.ru/images/recipes/38/3854/385465.jpg

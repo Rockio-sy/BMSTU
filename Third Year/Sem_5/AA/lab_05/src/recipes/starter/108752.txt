@@ -1,0 +1,10 @@
+title: Сырные палочки
+url: https://www.povarenok.ru/recipes/show/108752/
+ingredient: Мука пшеничная Мука примерно 225 стакана — 2 стак
+ingredient: Сыр твердый на мелкую терку — 150 г
+ingredient: Маргарин не из холодильникачто бы мягкий был — 50 г
+ingredient: Паприка сладкая или по вкусу — 05 ч л
+ingredient: Соль без горки — 1 ч л
+ingredient: Вода тут аккуратноя лила на глазоктесто должно отлипать от рук — 05 стак
+ingredient: Сода — 05 ч л
+image: https://www.povarenok.ru/data/cache/2015may/28/18/1159412_12780-710x550x.jpg

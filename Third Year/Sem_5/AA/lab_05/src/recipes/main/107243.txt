@@ -1,0 +1,13 @@
+title: Хинкали грузинские
+url: https://www.povarenok.ru/recipes/show/107243/
+ingredient: Мука пшеничная Мука — 500 г
+ingredient: Свинина — 500 г
+ingredient: Говядина — 500 г
+ingredient: Лук репчатый — 300 г
+ingredient: Чеснок — 3 зуб
+ingredient: Тимьян — 1 г
+ingredient: Зира — 1 г
+ingredient: Перец черный — 05 ч л
+ingredient: Вода 250 ледяной для теста 250 комнатной для фарша — 500 мл
+ingredient: Масло подсолнечное — 30 г
+image: https://www.povarenok.ru/data/cache/2015apr/30/36/1126814_73905-710x550x.jpg

@@ -1,0 +1,10 @@
+title: Фруктовый салат
+url: https://www.povarenok.ru/recipes/show/103454/
+ingredient: Яблоко — 1 шт
+ingredient: Банан — 1 шт
+ingredient: Апельсин — 1 шт
+ingredient: Йогурт — 100 мл
+ingredient: Мед — 20 г
+ingredient: Крупа овсяная — 10 г
+ingredient: Корица — 2 г
+image: https://www.povarenok.ru/data/cache/2015feb/27/29/1048705_65469-710x550x.jpg

@@ -1,0 +1,12 @@
+title: Салат из цветной капусты
+url: https://www.povarenok.ru/recipes/show/125941/
+ingredient: Капуста цветная — 3 кг
+ingredient: Перец сладкий — 10 шт
+ingredient: Лук репчатый — 15 кг
+ingredient: Помидор — 15 кг
+ingredient: Перец красный жгучий можно больше или меньшена ваш вкус — 2 шт
+ingredient: Петрушка примерно 100 гно можно и больше — 1 пуч
+ingredient: Сахар — 1 стак
+ingredient: Масло растительное — 1 стак
+ingredient: Соль с горкой — 3 ст л
+image: https://www.povarenok.ru/data/cache/2016apr/28/46/1560996_68200-710x550x.jpg

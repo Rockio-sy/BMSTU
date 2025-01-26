@@ -1,0 +1,15 @@
+title: Сочный салат с фасолью и тунцом
+url: https://www.povarenok.ru/recipes/show/159890/
+ingredient: Фасоль консервированная — 300 г
+ingredient: Тунец в собственном соку — 1 бан
+ingredient: Помидор — 200 г
+ingredient: Лук красный средняя — 1 шт
+ingredient: Петрушка — 10 г
+ingredient: Масло оливковое — 3 ст л
+ingredient: Соль разделить для салата и для маринования лука — 1 ч л
+ingredient: Сахар — 1 ч л
+ingredient: Сок лимонный или по вкусу — 1 ст л
+ingredient: Уксус — 1 ст л
+ingredient: Перец красный жгучий по вкусу можно черный перец
+ingredient: Вода кипяток для маринования лука
+image: https://www.povarenok.ru/data/cache/2019oct/06/07/2588338_74316-710x550x.jpg

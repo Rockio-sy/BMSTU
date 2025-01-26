@@ -1,0 +1,12 @@
+title: Солянка
+url: https://www.povarenok.ru/recipes/show/162932/
+ingredient: Мясо — 500 г
+ingredient: Колбаса — 800 г
+ingredient: Лук репчатый — 4 шт
+ingredient: Огурец соленый — 5 шт
+ingredient: Перец болгарский — 1 шт
+ingredient: Маслины — 170 г
+ingredient: Томатная паста — 3 ст л
+ingredient: Вода — 4 л
+ingredient: Рассол — 300 мл
+image: https://www.povarenok.ru/data/cache/2020feb/07/18/2663679_66591-710x550x.jpg

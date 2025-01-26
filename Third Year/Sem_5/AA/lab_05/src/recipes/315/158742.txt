@@ -1,0 +1,7 @@
+title: Кукуруза сахарная консервированная
+url: https://www.povarenok.ru/recipes/show/158742/
+ingredient: Кукуруза — 3000 г
+ingredient: Соль — 45 г
+ingredient: Сахар — 45 г
+ingredient: Вода — 1500 мл
+image: https://www.povarenok.ru/data/cache/2019jun/27/58/2556227_45230-710x550x.jpg

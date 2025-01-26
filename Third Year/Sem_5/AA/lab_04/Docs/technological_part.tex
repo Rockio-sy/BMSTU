@@ -1,0 +1,155 @@
+\chapter{Технологическая часть}
+В данном разделе описывается выбор инструментов для реализации программы, включая язык программирования. Также представлены реализации ключевых алгоритмов исследования, описания методов тестирования программы и анализ полученных результатов.
+
+\section{Выбор языка программирования}
+
+Для реализации алгоритмов вычисления редакционного расстояния был выбран язык программирования C++. Выбор обусловлен следующими факторами:
+
+\begin{itemize}
+	\item {Производительность}
+	\item {Объектно-ориентированный подход}
+	\item {Стандартная библиотека}
+\end{itemize}
+
+\section{Реализация классов}
+Интерфейсы классов \texttt{WebPageDownloader}, \texttt{HTMLParser}, и \texttt{WebScraper} представлены в приложенных листингах.
+
+\begin{center}
+	\captionsetup{justification=raggedright,singlelinecheck=off}
+	\begin{lstlisting}[caption=Интерфейс класса WebPageDownloader]
+class WebPageDownloader
+{
+	public:
+	WebPageDownloader() = default;
+	
+	static size_t WriteCallback(void *contents, size_t size, size_t nmemb, std::string *userp);
+	
+	std::string fetchContent(const std::string &url);
+	
+	void fetchAndSaveContent(const std::string &url, const std::string &filename);
+	
+	private:
+	std::string convertEncoding(const std::string &input, const std::string &from_enc, const std::string &to_enc);
+};
+	\end{lstlisting}
+\end{center}
+
+\begin{center}
+	\captionsetup{justification=raggedright,singlelinecheck=off}
+	\begin{lstlisting}[caption=Интерфейс класса HTMLParser]
+class HTMLParser
+{
+	public:
+	HTMLParser()
+	{
+		myhtml = myhtml_create();
+		myhtml_init(myhtml, MyHTML_OPTIONS_DEFAULT, 1, 0);
+		tree = myhtml_tree_create();
+		myhtml_tree_init(tree, myhtml);
+	}
+	
+	~HTMLParser()
+	{
+		myhtml_tree_destroy(tree);
+		myhtml_destroy(myhtml);
+	}
+	
+	void parseHTML(const std::string &html);
+	
+	std::vector<std::string> extractCategoryURLs(void);
+	
+	std::vector<std::string> extractRecipes(const std::string &className);
+	
+	std::vector<std::string> extractRecipeIngredients(const std::string &className);
+	
+	void replaceFileExtension(std::string &fileExtension);
+	
+	std::vector<std::string> formatIngredients(const std::vector<std::string> &rawIngredients);
+	
+	private:
+	myhtml_t* myhtml;
+	myhtml_tree_t* tree;
+	
+	std::vector<std::string> findRecipesInNode(myhtml_tree_node_t* node);
+	
+	std::string collectNodeText(myhtml_tree_node_t* node);
+	
+};
+	\end{lstlisting}
+\end{center}
+
+\begin{center}
+	\captionsetup{justification=raggedright,singlelinecheck=off}
+	\begin{lstlisting}[caption=Интерфейс класса WebScraper]
+enum class TaskType
+{
+	FetchRecipes,
+	SaveRecipeDetails
+};
+
+struct Task
+{
+	std::string url;
+	TaskType type;
+	std::string directory;
+};
+
+struct WebScraperConfig
+{
+	std::string url;
+	int maxSectionN = -1;
+	int maxLinksPerSectionN = -1;
+};
+
+class WebScraper
+{
+	public:
+	WebScraper(const WebScraperConfig &config)
+	: homePageUrl(config.url),
+	maxSectionN(config.maxSectionN),
+	isSectionLimitSet(config.maxSectionN >= 0),
+	maxLinksPerSectionN(config.maxLinksPerSectionN),
+	isLinksLimitSet(config.maxLinksPerSectionN >= 0) {}
+	
+	void addSectionUrl(const std::string &url);
+	
+	void addSectionUrls(const std::vector<std::string> &sectionUrls);
+	
+	std::string getHomeUrl(void) const;
+	
+	std::vector<std::string> getBaseSectionUrls(void) const;
+	
+	std::unordered_map<std::string, std::vector<std::string>> getSectionRecipes(void) const;
+	
+	void mapSectionRecipes(void);
+	
+	void saveRecipe(const std::string &url, const std::string &directory);
+	
+	void seriesScraping(void);
+	
+	void parallelScraping(int threadsN);
+	
+	void filterRecipeLinks(std::vector<std::string> &recipes);
+	
+	friend std::ostream &operator<<(std::ostream &os, const WebScraper &scraper);
+	
+	private:
+	HTMLParser parser;
+	WebPageDownloader downloader;
+	
+	std::string homePageUrl;
+	std::unordered_map<std::string, std::vector<std::string>> baseSections;
+	
+	int maxSectionN;
+	bool isSectionLimitSet;
+	
+	int maxLinksPerSectionN;
+	bool isLinksLimitSet;
+	
+	std::vector<std::string> splitUrl(const std::string &url);
+};
+	\end{lstlisting}
+\end{center}
+
+\section*{Вывод}
+Разработанное программное обеспечение успешно справляется с задачами обработки данных веб-страниц, обеспечивая высокую производительность за счет возвможности использования параллельной обработки данных.

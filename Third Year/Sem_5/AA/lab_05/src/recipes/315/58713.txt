@@ -1,0 +1,6 @@
+title: Фарш в автоклаве
+url: https://www.povarenok.ru/recipes/show/58713/
+ingredient: Мясо свинина или говядина — 5 кг
+ingredient: Сало свежее — 15 кг
+ingredient: Соль по вкусу
+image: https://www.povarenok.ru/images/recipes/44/4477/447781.jpg

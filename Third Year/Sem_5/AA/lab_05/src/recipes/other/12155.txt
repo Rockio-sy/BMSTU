@@ -1,0 +1,7 @@
+title: Закуска "Тещин язык"
+url: https://www.povarenok.ru/recipes/show/12155/
+ingredient: Баклажан — 3 шт
+ingredient: Помидор — 2 шт
+ingredient: Майонез — 2 ст л
+ingredient: Чеснок — 3 зуб
+image: https://www.povarenok.ru/images/recipes/5/558/55844.jpg

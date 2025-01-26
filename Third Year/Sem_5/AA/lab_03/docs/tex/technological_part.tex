@@ -1,0 +1,103 @@
+\chapter{Технологический раздел}
+В данном разделе описывается выбор инструментов для реализации программы, включая язык программирования. Также представлены реализации ключевых алгоритмов исследования, описания методов тестирования программы и анализ полученных результатов.
+
+\section{Выбор языка программирования}
+
+Для реализации алгоритмов вычисления редакционного расстояния был выбран язык программирования C++. Выбор обусловлен следующими факторами:
+
+\begin{itemize}[label=---]
+	\item {производительность;}
+	\item {объектно-ориентированный подход;}
+	\item {наличие стандартной библиотеки шаблонов.}
+\end{itemize}
+
+\section{Реализация алгоритмов}
+
+\begin{center}
+	\captionsetup{justification=raggedright,singlelinecheck=off}
+	\begin{lstlisting}[caption=Реализация алгоритма поиска полным перебором]
+std::pair<int, int> Finder::bruteForce(const std::vector<int> &src, int x)
+{
+	int comparisions = 0;
+	for (unsigned long int i = 0; i < src.size(); i++)
+	{
+		++comparisions;
+		if (src[i] == x)
+		{
+			return {i, comparisions};
+		}
+	}
+	return {-1, comparisions};
+}
+	\end{lstlisting}
+\end{center}
+
+\begin{center}
+	\captionsetup{justification=raggedright,singlelinecheck=off}
+	\begin{lstlisting}[caption=Реализация алгоритма бинарного поиска]
+std::pair<int, int> Finder::binarySearch(const std::vector<int> &src, int x)
+{
+	int left = 0;
+	int right = src.size() - 1;
+	int comparisions = 0;
+	
+	while (left <= right)
+	{
+		int mid = left + (right - left) / 2;
+		++comparisions;
+		
+		if (src[mid] == x)
+		{
+			return {mid, comparisions};
+		}
+		else if (src[mid] < x)
+		{
+			left = mid + 1;
+		}
+		else
+		{
+			right = mid - 1;
+		}
+	}
+	return {-1, comparisions};
+}
+	\end{lstlisting}
+\end{center}
+
+\section{Тестирование}
+
+Тестирование реализаций алгоритмов проводилось на основе следующих классов эквивалентности:
+
+\begin{enumerate}[label=\arabic*)]
+	\item {искомого элемента нет в массиве;}
+	\item {искомый элемент находится на первой позиции массива;}
+	\item {искомый элемент находится в середине массива;}
+	\item {искомый элемент находится на последней позиции массива;}
+	\item {искомый элемент находится в произвольной позиции массива.}
+\end{enumerate}
+
+Результаты тестирования представлены в таблице:
+
+\begin{table}[h!]
+	\centering
+	\caption{Результаты тестирования алгоритмов вычисления расстояний}
+	\label{tab:test_results}
+	\begin{tabular}{|c|c|c|c|c|}
+		\hline
+		\textbf{№} & \multicolumn{2}{c|}{\textbf{Входные данные}} & \multicolumn{2}{c|}{\textbf{Результат}} \\ \cline{2-5}
+		& \textbf{Массив} & \textbf{Элемент} & \textbf{Полный перебор} & \textbf{Бин. поиск} \\ \hline
+		1 & [1, 3, 5, 7] & 9 & -1 & -1 \\ \hline
+		2 & [2, 4, 6, 8] & 2 & 0 & 0 \\ \hline
+		3 & [11, 22, 33, 44, 55] & 33 & 2 & 2 \\ \hline
+		4 & [9, 8, 7, 6, 5] & 5 & 4 & 4 \\ \hline
+		5 & [1, 4, 8, 2, 3] & 2 & 3 & 3 \\ \hline
+
+	\end{tabular}
+\end{table}
+
+
+
+\section*{Вывод}
+
+В результате технологического анализа были выбраны инструменты и методы, наиболее подходящие для реализации задачи вычисления редакционных расстояний и были выделены класси эквивалентности для тестирования алгоритмов. Все тесты были пройдены.
+

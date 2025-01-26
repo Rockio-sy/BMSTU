@@ -1,0 +1,10 @@
+title: Салат с сухариками
+url: https://www.povarenok.ru/recipes/show/162696/
+ingredient: Яйцо куриное Вареные — 5 шт
+ingredient: Колбаса Колбаса копченая на Ваш вкус — 300 г
+ingredient: Сухарики 1 пачка125 г — 1 пач
+ingredient: Фасоль консервированная 1 банка300 г — 1 бан
+ingredient: Майонез — 5 ст л
+ingredient: Укроп — 1 пуч
+ingredient: Соль — по вкусу
+image: https://www.povarenok.ru/data/cache/2020jan/18/29/2654860_86558-710x550x.jpg

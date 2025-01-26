@@ -1,0 +1,7 @@
+title: Домашняя тушенка из кролика
+url: https://www.povarenok.ru/recipes/show/165327/
+ingredient: Кролик разделанный — 3 кг
+ingredient: Соль — 30 г
+ingredient: Перец черный горошком — 18 шт
+ingredient: Лист лавровый — 5 шт
+image: https://www.povarenok.ru/data/cache/2020jun/05/47/2722197_82498-710x550x.jpg

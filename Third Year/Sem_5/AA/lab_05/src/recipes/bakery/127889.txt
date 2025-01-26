@@ -1,0 +1,15 @@
+title: Яблочный штрудель
+url: https://www.povarenok.ru/recipes/show/127889/
+ingredient: Тесто слоеное бездрожжевое — 250 г
+ingredient: Яблоко — 650 г
+ingredient: Масло сливочное — 50 г
+ingredient: Сахар — 200 г
+ingredient: Корица — 6 г
+ingredient: Сухари панировочные Панировка — 50 г
+ingredient: Изюм — 50 г
+ingredient: Орехи грецкие — 50 г
+ingredient: Ванилин для соуса — 3 г
+ingredient: Сливки 33 для соуса — 350 мл
+ingredient: Яйцо куриное — 1 шт
+ingredient: Мука пшеничная Мука — 50 г
+image: https://www.povarenok.ru/data/cache/2016jun/13/41/1611433_23859-710x550x.jpg

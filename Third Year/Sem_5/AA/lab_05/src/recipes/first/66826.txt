@@ -1,0 +1,14 @@
+title: Валерушкины посидушки №5. Суп харчо
+url: https://www.povarenok.ru/recipes/show/66826/
+ingredient: Говядина — 500 г
+ingredient: Рис — 150 г
+ingredient: Лук репчатый — 1 шт
+ingredient: Ткемали — 150 г
+ingredient: Чеснок — 34 зуб
+ingredient: Орехи грецкие молотые — 100 г
+ingredient: Перец душистый горошком по вкусу
+ingredient: Перец красный жгучий по вкусу
+ingredient: Хмелисунели по вкусу
+ingredient: Соль по вкусу
+ingredient: Зелень для украшения
+image: https://www.povarenok.ru/images/recipes/54/5490/549014.jpg

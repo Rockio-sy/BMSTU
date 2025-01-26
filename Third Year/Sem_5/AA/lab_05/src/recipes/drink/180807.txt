@@ -1,0 +1,12 @@
+title: Пунш "Красный бархат"
+url: https://www.povarenok.ru/recipes/show/180807/
+ingredient: Вода кипяток — 600 мл
+ingredient: Каркаде — 2 ст л
+ingredient: Апельсин — 2 ломт
+ingredient: Бадьян звездочка — 1 шт
+ingredient: Сахар — по вкусу
+instruction: Чай каркаде (гибискус) залейте кипятком, настаивайте 3 минуты.
+instruction: Добавьте ломтики апельсина и бадьян.
+instruction: Настаивайте еще 3-5 минут.
+instruction: Разлейте напиток по чашкам, добавьте сахар по вкусу.
+image: https://www.povarenok.ru/data/cache/2024jan/06/03/3102761_67767-710x550x.jpg

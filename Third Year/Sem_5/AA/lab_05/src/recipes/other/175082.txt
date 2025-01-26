@@ -1,0 +1,12 @@
+title: Корейский салат из свеклы
+url: https://www.povarenok.ru/recipes/show/175082/
+ingredient: Свекла — 1 кг
+ingredient: Чеснок — 5 зуб
+ingredient: Перец красный жгучий молотый — 1 ч л
+ingredient: Уксус 9 — 3 ст л
+ingredient: Кориандр — 2 ч л
+ingredient: Соль — 2 ч л
+ingredient: Сахар — 1 ст л
+ingredient: Масло растительное — 100 мл
+ingredient: Кунжут по желанию — 05 ч л
+image: https://www.povarenok.ru/data/cache/2022feb/21/01/2950026_84284-710x550x.jpg

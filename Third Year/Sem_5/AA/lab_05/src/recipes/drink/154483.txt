@@ -1,0 +1,13 @@
+title: Куриное филе с овощами «Чайная роза»
+url: https://www.povarenok.ru/recipes/show/154483/
+ingredient: Филе куриное — 3 шт
+ingredient: Грибы консервированные Маленькая банка или свежие шампиньоны — 1 бан
+ingredient: Морковь Маленьких — 3 шт
+ingredient: Сыр твердый — 100 г
+ingredient: Перец болгарский — 1 шт
+ingredient: Лук репчатый — 1 шт
+ingredient: Майонез — 3 ст л
+ingredient: Аджика — 1 ч л
+ingredient: Специи — 1 ч л
+ingredient: Соль — 1 ч л
+image: https://www.povarenok.ru/data/cache/2018nov/08/11/2430004_51061-710x550x.jpg

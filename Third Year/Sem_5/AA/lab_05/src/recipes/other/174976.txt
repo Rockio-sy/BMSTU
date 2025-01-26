@@ -1,0 +1,7 @@
+title: Салат из свеклы с кукурузой
+url: https://www.povarenok.ru/recipes/show/174976/
+ingredient: Свекла отварная — 340 г
+ingredient: Кукуруза консервированная — 200 г
+ingredient: Лук красный — 85 г
+ingredient: Зелень — 15 г
+image: https://www.povarenok.ru/data/cache/2022feb/07/36/2947151_59035-710x550x.jpg

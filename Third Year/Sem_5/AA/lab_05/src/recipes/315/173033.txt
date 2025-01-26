@@ -1,0 +1,10 @@
+title: Томатный суп
+url: https://www.povarenok.ru/recipes/show/173033/
+ingredient: Помидор — 1 кг
+ingredient: Бульон Можно взять меньше 0507 л — 1 л
+ingredient: Вермишель — 100 г
+ingredient: Лук репчатый — 1 шт
+ingredient: Масло растительное — 1 ст л
+ingredient: Соль — 1 ч л
+ingredient: Зелень — 1 пуч
+image: https://www.povarenok.ru/data/cache/2021sep/04/11/2897628_10598-710x550x.jpg

@@ -1,0 +1,8 @@
+title: Сырные палочки
+url: https://www.povarenok.ru/recipes/show/176272/
+ingredient: Тесто дрожжевое — 250 г
+ingredient: Петрушка — 10 веточ
+ingredient: Яйцо куриное — 1 шт
+ingredient: Сыр твердый — 70 г
+ingredient: Кунжут — по вкусу
+image: https://www.povarenok.ru/data/cache/2022jul/17/44/2980288_67186-710x550x.jpg

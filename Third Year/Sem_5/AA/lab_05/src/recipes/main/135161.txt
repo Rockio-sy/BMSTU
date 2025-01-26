@@ -1,0 +1,11 @@
+title: Чахохбили
+url: https://www.povarenok.ru/recipes/show/135161/
+ingredient: Курица — 1 шт
+ingredient: Томаты в собственном соку Помидорка — 720 мл
+ingredient: Лук репчатый — 3 шт
+ingredient: Паприка сладкая — 1 ч л
+ingredient: Зелень
+ingredient: Хмелисунели
+ingredient: Чеснок
+ingredient: Соль
+image: https://www.povarenok.ru/data/cache/2016dec/01/47/1829715_67727-710x550x.jpg

@@ -1,0 +1,10 @@
+title: Гречневая каша со свининой в автоклаве
+url: https://www.povarenok.ru/recipes/show/175331/
+ingredient: Крупа гречневая — 3 ст л
+ingredient: Свинина — 150 г
+ingredient: Лук репчатый — 1 ст л
+ingredient: Морковь — 1 ст л
+ingredient: Соль — 05 ч л
+ingredient: Смесь перцев — по вкусу
+ingredient: Масло растительное для обжарки овощей — по вкусу
+image: https://www.povarenok.ru/data/cache/2022apr/12/40/2956339_73149-710x550x.jpg

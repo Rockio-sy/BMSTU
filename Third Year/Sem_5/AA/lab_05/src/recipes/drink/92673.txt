@@ -1,0 +1,6 @@
+title: Рисовый самогон
+url: https://www.povarenok.ru/recipes/show/92673/
+ingredient: Рис — 15 кг
+ingredient: Вода — 7 л
+ingredient: Дрожжи сухие сафлевюр — 8 г
+image: https://www.povarenok.ru/data/cache/2014jul/28/46/811506_96419-710x550x.jpg

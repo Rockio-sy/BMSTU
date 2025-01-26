@@ -1,0 +1,9 @@
+title: Филе индейки в автоклаве
+url: https://www.povarenok.ru/recipes/show/175341/
+ingredient: Индейка
+ingredient: Специи
+ingredient: Соль
+instruction: Специи.
+instruction: Заполняем банки индейкой
+instruction: Индейка должна плотно быть в баночке, чтоб не было воздуха.
+image: https://www.povarenok.ru/data/cache/2022apr/13/37/2956437_73781-710x550x.jpg

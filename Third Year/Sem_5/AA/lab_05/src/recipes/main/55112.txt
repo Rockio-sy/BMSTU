@@ -1,0 +1,9 @@
+title: Цыпленок табака
+url: https://www.povarenok.ru/recipes/show/55112/
+ingredient: Курица средняя
+ingredient: Чеснок
+ingredient: Перец черный
+ingredient: Соль
+ingredient: Кетчуп heinz
+ingredient: Бульон куриный
+image: https://www.povarenok.ru/images/recipes/40/4090/409098.jpg

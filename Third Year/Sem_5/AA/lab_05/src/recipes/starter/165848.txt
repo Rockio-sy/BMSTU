@@ -1,0 +1,12 @@
+title: Воздушные сырные палочки
+url: https://www.povarenok.ru/recipes/show/165848/
+ingredient: Мука пшеничная Мука — 250 г
+ingredient: Сахар — 1 ст л
+ingredient: Соль — 05 ч л
+ingredient: Дрожжи сухие — 1 ч л
+ingredient: Яйцо куриное — 1 шт
+ingredient: Молоко 2 стл для смазывания — 120 мл
+ingredient: Масло сливочное — 30 г
+ingredient: Сыр твердый — 50 г
+ingredient: Масло растительное для смазывания рук — 1 ч л
+image: https://www.povarenok.ru/data/cache/2020jun/24/36/2733604_77156-710x550x.jpg

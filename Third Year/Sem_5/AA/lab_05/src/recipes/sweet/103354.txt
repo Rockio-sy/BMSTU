@@ -1,0 +1,8 @@
+title: Русский хворост
+url: https://www.povarenok.ru/recipes/show/103354/
+ingredient: Молоко смотря сколько вы хотите нажарить — 05 л
+ingredient: Сахар
+ingredient: Соль
+ingredient: Сода
+ingredient: Мука пшеничная Мука
+image: https://www.povarenok.ru/data/cache/2015feb/25/31/1046550_87185-710x550x.jpg

@@ -1,0 +1,10 @@
+title: Печенье "Шоколадная бомба"
+url: https://www.povarenok.ru/recipes/show/159407/
+ingredient: Мука пшеничная Мука — 170 г
+ingredient: Какаопорошок — 25 г
+ingredient: Сахар тростниковый — 30 г
+ingredient: Мед жидкий — 120 г
+ingredient: Масло сливочное мягкое — 100 г
+ingredient: Сода — 4 г
+ingredient: Шоколад темный Шоколадные капельки — 80 г
+image: https://www.povarenok.ru/data/cache/2019aug/19/30/2573277_15830-710x550x.jpg

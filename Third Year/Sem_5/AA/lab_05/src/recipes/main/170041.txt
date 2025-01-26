@@ -1,0 +1,14 @@
+title: Мягкий шницель из свинины
+url: https://www.povarenok.ru/recipes/show/170041/
+ingredient: Свинина 1 кг 250 грамм — 1250 г
+ingredient: Соль — по вкусу
+ingredient: Перец черный — по вкусу
+ingredient: Чеснок Гранулированный чеснок — по вкусу
+ingredient: Приправа Смесь приправ — по вкусу
+ingredient: Помидор — 1 шт
+ingredient: Огурец — 1 шт
+ingredient: Сухари панировочные Панировка — 250 г
+ingredient: Мука пшеничная Мука — 250 г
+ingredient: Яйцо куриное — 3 шт
+ingredient: Масло растительное — 250 мл
+image: https://www.povarenok.ru/data/cache/2021jan/20/05/2824572_60854-710x550x.jpg

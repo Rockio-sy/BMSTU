@@ -1,0 +1,11 @@
+title: Стейк с овощами
+url: https://www.povarenok.ru/recipes/show/132147/
+ingredient: Говядина стейк — 1 шт
+ingredient: Приправа — по вкусу
+ingredient: Перец черный крупного помола — по вкусу
+ingredient: Перец болгарский — 3 шт
+ingredient: Фасоль стручковая — 5 шт
+ingredient: Цуккини — 1 шт
+ingredient: Имбирь — по вкусу
+ingredient: Мисопаста — 1 ст л
+image: https://www.povarenok.ru/data/cache/2016sep/22/58/1715909_36032-710x550x.jpg

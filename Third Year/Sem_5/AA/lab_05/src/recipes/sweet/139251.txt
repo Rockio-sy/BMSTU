@@ -1,0 +1,10 @@
+title: Быстрый чизкейк
+url: https://www.povarenok.ru/recipes/show/139251/
+ingredient: Печенье Я брала Юбилейное — 10 шт
+ingredient: Сок яблочный Маленькая пачка — 330 мл
+ingredient: Творог — 400 г
+ingredient: Сливки 33 — 100 мл
+ingredient: Яйцо куриное — 3 шт
+ingredient: Мед — 3 ст л
+ingredient: Ассорти ягодное Для украшения сверху — по вкусу
+image: https://www.povarenok.ru/data/cache/2017mar/19/12/1955472_34411-710x550x.jpg

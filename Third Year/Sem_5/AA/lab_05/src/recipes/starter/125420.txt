@@ -1,0 +1,10 @@
+title: Яйца, фаршированные сыром и шпинатом
+url: https://www.povarenok.ru/recipes/show/125420/
+ingredient: Яйцо куриное — 8 шт
+ingredient: Шпинат — 150 г
+ingredient: Сыр твердый — 100 г
+ingredient: Масло сливочное — 40 г
+ingredient: Паприка сладкая молотая — 1 ч л
+ingredient: Перец черный молотый — по вкусу
+ingredient: Соль — по вкусу
+image: https://www.povarenok.ru/data/cache/2016apr/19/54/1549773_52630-710x550x.jpg

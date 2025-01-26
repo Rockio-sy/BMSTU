@@ -1,0 +1,11 @@
+title: Курица с баклажанами
+url: https://www.povarenok.ru/recipes/show/159938/
+ingredient: Курица Можно использовать любые части — 1800 г
+ingredient: Баклажан Небольшие — 5 шт
+ingredient: Чеснок — 8 зуб
+ingredient: Перец зеленый У меня стручковый можно использовать любой другой — 1 шт
+ingredient: Соевый соус — 150 мл
+ingredient: Сахар — 35 ч л
+ingredient: Соль — по вкусу
+ingredient: Перец черный — по вкусу
+image: https://www.povarenok.ru/data/cache/2019oct/10/07/2589733_38424-710x550x.jpg

@@ -1,0 +1,11 @@
+title: Тушенка домашняя из свинины
+url: https://www.povarenok.ru/recipes/show/159698/
+ingredient: Сало — по вкусу
+ingredient: Свинина — 1500 г
+ingredient: Лук репчатый — 3 шт
+ingredient: Соль — по вкусу
+ingredient: Перец черный — по вкусу
+ingredient: Лист лавровый — 4 шт
+ingredient: Чеснок — 6 зуб
+ingredient: Перец душистый — по вкусу
+image: https://www.povarenok.ru/data/cache/2019sep/18/47/2582072_42579-710x550x.jpg

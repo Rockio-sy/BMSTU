@@ -1,0 +1,8 @@
+title: Сырные шарики
+url: https://www.povarenok.ru/recipes/show/175832/
+ingredient: Сыр творожный — 200 г
+ingredient: Пармезан — 50 г
+ingredient: Чеснок — 1 зуб
+ingredient: Фисташки — 1 горст
+ingredient: Клюква — 10 шт
+image: https://www.povarenok.ru/data/cache/2022jun/09/31/2969555_12154-710x550x.jpg

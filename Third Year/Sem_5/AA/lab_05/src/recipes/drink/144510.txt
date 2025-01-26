@@ -1,0 +1,10 @@
+title: Смузи "Мужской"
+url: https://www.povarenok.ru/recipes/show/144510/
+ingredient: Шпинат — 100 г
+ingredient: Сельдерей черешковый — 1 шт
+ingredient: Яблоко — 1 шт
+ingredient: Огурец — 1 шт
+ingredient: Базилик листья с веточек — 2 веточ
+ingredient: Имбирь корень — 4 г
+ingredient: Лимон — 05 шт
+image: https://www.povarenok.ru/data/cache/2017sep/19/05/2120403_37292-710x550x.jpg

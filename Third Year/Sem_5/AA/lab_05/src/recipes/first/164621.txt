@@ -1,0 +1,18 @@
+title: Окрошка богатырская с жареным мясом
+url: https://www.povarenok.ru/recipes/show/164621/
+ingredient: Кефир не жирный — 1 л
+ingredient: Вода минеральная — 250 мл
+ingredient: Свинина — 300 г
+ingredient: Редис — 67 шт
+ingredient: Лук зеленый — 3 шт
+ingredient: Огурец — 2 шт
+ingredient: Картофель отварной — 2 шт
+ingredient: Яйцо куриное отварные — 2 шт
+ingredient: Масло подсолнечное для жарки — 3 ст л
+ingredient: Майонез — 1 ст л
+ingredient: Горчица — 1 ч л
+ingredient: Соль — по вкусу
+ingredient: Укроп — 4 веточ
+ingredient: Перец черный — по вкусу
+ingredient: Кориандр — по вкусу
+image: https://www.povarenok.ru/data/cache/2020may/09/40/2704878_20635-710x550x.jpg

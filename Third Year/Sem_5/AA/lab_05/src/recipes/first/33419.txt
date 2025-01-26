@@ -1,0 +1,12 @@
+title: Шурпа
+url: https://www.povarenok.ru/recipes/show/33419/
+ingredient: Баранина несколько разных сортов шейка на рёбрышках филе
+ingredient: Перец болгарский всех возможных цветов минимум 3 цвета
+ingredient: Морковь
+ingredient: Чеснок
+ingredient: Лук репчатый
+ingredient: Лимон
+ingredient: Соль черный перец
+ingredient: Масло оливковое
+ingredient: Зелень петрушка кинза укроп
+image: https://www.povarenok.ru/data/cache/2014sep/14/33/860842_88570-710x550x.jpg

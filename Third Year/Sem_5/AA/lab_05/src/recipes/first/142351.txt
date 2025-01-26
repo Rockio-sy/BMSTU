@@ -1,0 +1,13 @@
+title: Окрошка на кефире и воде
+url: https://www.povarenok.ru/recipes/show/142351/
+ingredient: Лук зеленый — 150 г
+ingredient: Укроп — 50 г
+ingredient: Петрушка для подачи — 50 г
+ingredient: Огурец — 200 г
+ingredient: Свинина отварная — 250 г
+ingredient: Яйцо куриное отварные — 3 шт
+ingredient: Кефир — 1 л
+ingredient: Вода кипяченая — 05 л
+ingredient: Соль — по вкусу
+ingredient: Сахар — по вкусу
+image: https://www.povarenok.ru/data/cache/2017jun/27/02/2053498_45168-710x550x.jpg

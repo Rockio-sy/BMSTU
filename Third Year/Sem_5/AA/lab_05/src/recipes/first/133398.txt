@@ -1,0 +1,14 @@
+title: Шурпа
+url: https://www.povarenok.ru/recipes/show/133398/
+ingredient: Мясо на косточке — 12 кг
+ingredient: Морковь — 2 шт
+ingredient: Перец чили — 4 шт
+ingredient: Перец болгарский — 4 шт
+ingredient: Томаты в собственном соку Помидорка — 1 бан
+ingredient: Картофель — по вкусу
+ingredient: Зира — по вкусу
+ingredient: Барбарис — по вкусу
+ingredient: Чеснок — по вкусу
+ingredient: Перец черный горошком — по вкусу
+ingredient: Соль — по вкусу
+image: https://www.povarenok.ru/data/cache/2016oct/19/14/1773800_23855-710x550x.jpg

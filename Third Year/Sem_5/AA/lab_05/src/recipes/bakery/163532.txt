@@ -1,0 +1,12 @@
+title: Трубочки с картофельной начинкой
+url: https://www.povarenok.ru/recipes/show/163532/
+ingredient: Лаваш — 2 шт
+ingredient: Картофель — 4 шт
+ingredient: Лук репчатый — 1 шт
+ingredient: Молоко — 50 мл
+ingredient: Сметана — 2 ст л
+ingredient: Масло растительное — 1 ст л
+ingredient: Яйцо куриное — 1 шт
+ingredient: Соль — по вкусу
+ingredient: Кунжут — 3 ст л
+image: https://www.povarenok.ru/data/cache/2020mar/13/06/2676321_29375-710x550x.jpg
