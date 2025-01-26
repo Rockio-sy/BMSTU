@@ -1,0 +1,102 @@
+[
+    {
+        "id": 52334,
+        "first_name": "Charlie",
+        "last_name": "Williams",
+        "study_year": 4,
+        "class_group": "SH8",
+        "created_at": "2024-03-26 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 18
+    },
+    {
+        "id": 93252,
+        "first_name": "Diana",
+        "last_name": "Brown",
+        "study_year": 1,
+        "class_group": "WQ8",
+        "created_at": "2024-07-13 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 25
+    },
+    {
+        "id": 86964,
+        "first_name": "Diana",
+        "last_name": "Williams",
+        "study_year": 2,
+        "class_group": "TC2",
+        "created_at": "2024-04-26 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 22
+    },
+    {
+        "id": 78474,
+        "first_name": "Eve",
+        "last_name": "Jones",
+        "study_year": 5,
+        "class_group": "KU2",
+        "created_at": "2024-02-07 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 22
+    },
+    {
+        "id": 97692,
+        "first_name": "Eve",
+        "last_name": "Williams",
+        "study_year": 1,
+        "class_group": "EC6",
+        "created_at": "2024-01-31 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 19
+    },
+    {
+        "id": 65053,
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "study_year": 4,
+        "class_group": "YI10",
+        "created_at": "2024-07-29 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 23
+    },
+    {
+        "id": 53972,
+        "first_name": "Alice",
+        "last_name": "Brown",
+        "study_year": 3,
+        "class_group": "JE5",
+        "created_at": "2024-06-07 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 21
+    },
+    {
+        "id": 65353,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "study_year": 5,
+        "class_group": "XH2",
+        "created_at": "2024-06-03 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 19
+    },
+    {
+        "id": 47432,
+        "first_name": "Diana",
+        "last_name": "Jones",
+        "study_year": 4,
+        "class_group": "EW6",
+        "created_at": "2024-08-30 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 24
+    },
+    {
+        "id": 86364,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "study_year": 3,
+        "class_group": "PP3",
+        "created_at": "2024-03-27 19:06:04",
+        "updated_at": "2024-12-12 19:06:04",
+        "age": 21
+    }
+]

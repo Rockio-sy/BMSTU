@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-bmstu
+    ports:
+      - "5433:5432"
+    user: root
+    environment:
+      # - POSTGRES_DB=market
+      - POSTGRES_PASSWORD=postgres
+    healthcheck:
+      test: pg_isready
+      interval: 10s
+      timeout: 10s
+      retries: 3
+    volumes:
+      - 'postgres-data:/var/lib/postgresql/data'
+   #command: >
+     # bash -c "
+      #apt-get update &&
+      #apt-get install -y postgresql-plpython3-$${PG_MAJOR} &&
+      #docker-entrypoint.sh postgres
+      #"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana-bmstu
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - 'grafana-data:/var/lib/grafana'
+
+volumes:
+  postgres-data:
+  grafana-data:
